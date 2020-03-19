@@ -1,0 +1,3 @@
+r_dir_file(hvdcp, sysfs_batteryinfo)
+
+dontaudit hvdcp self:capability { dac_override };
